@@ -1,4 +1,4 @@
-## Hello 👋
+## Hello! 👋
 Welcome to my Data Corner!
 
 I’m passionate about turning data into meaningful stories that help businesses grow and thrive. Whether I’m building models, analyzing trends, or just exploring new tools, I love digging into data to find the insights that matter.
